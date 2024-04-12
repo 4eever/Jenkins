@@ -1,0 +1,7 @@
+E:\Jenkins\Jenkins\bin\Debug\Jenkins.exe.config
+E:\Jenkins\Jenkins\bin\Debug\Jenkins.exe
+E:\Jenkins\Jenkins\bin\Debug\Jenkins.pdb
+E:\Jenkins\Jenkins\obj\Debug\Jenkins.csproj.AssemblyReference.cache
+E:\Jenkins\Jenkins\obj\Debug\Jenkins.csproj.CoreCompileInputs.cache
+E:\Jenkins\Jenkins\obj\Debug\Jenkins.exe
+E:\Jenkins\Jenkins\obj\Debug\Jenkins.pdb
